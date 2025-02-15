@@ -23,6 +23,10 @@
 - [Chichewa text Part of speech tagging Using transformers](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [Chichewa text-to-speech dataset](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [Fine-tuning speechT5 model for Chichewa text sythesis ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [A Video-based Detector for Suspicious Activity in Examination with OpenPose ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Milab: a Virtual Science Laboratory for Malawian Secondary Schools ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Water Parameter Estimation Application using Statistical Learning: the context of Malawi ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  
 
 <h2> 🤳 Connect with me:</h2>
 

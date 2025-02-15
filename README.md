@@ -15,11 +15,14 @@
 
 <h2>📺 Projects and Events</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Organised Data Science bootCamp 2021](https://mwdata.science/)
+- [Part of speech tagging dataset creator](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Chichewa word embeddings](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Chichewa stemming algorithm](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Chichewa text classification](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Chichewa text Part of speech tagging Using transformers](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Chichewa text-to-speech dataset](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Fine-tuning speechT5 model for Chichewa text sythesis ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 

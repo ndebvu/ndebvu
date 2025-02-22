@@ -3,15 +3,12 @@
 <h2>👨‍💻 Education:</h2>
 
 - <b>Doctor of philosophy computer Science (University of Botswana)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]
+  - [Research Focus: Text-to-speech (TTS) synthesis for low-resource languages]
+  - [POS tagging for Bantu languages, and Transformer-based Named Entity Recognition (NER)]
 - <b>Master of science Computer Science and Technology(Harbin Institute of Technology , China)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Thesis: Chichewa news-text classification]
 - <b>Bsc Information and Communication Technology(Mzuzu University, Malawi)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
 
 <h2>📺 Projects and Events</h2>
 

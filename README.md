@@ -13,7 +13,7 @@
 <h2>📺 Projects and Events</h2>
 
 - [Organised Data Science bootCamp 2021](https://mwdata.science/)
-- [Part of speech tagging dataset creator](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Part of speech tagging dataset creator](https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/README.md)
 - [Chichewa word embeddings](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Chichewa stemming algorithm](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Chichewa text classification](https://www.youtube.com/watch?v=E2MwRWxDBkA)

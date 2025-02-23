@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Education:</h2>
 
-- <b>Doctor of philosophy Computer Science, Major in Machine Learning & Natural Language Processing (Ongoing)</b>
+- <b>Doctor of philosophy Computer Science </b>
+- Major in Machine Learning & Natural Language Processing (Ongoing)
    - University of Botswana, expected 2026
   - Research Focus: Text-to-speech (TTS) synthesis for low-resource languages
   - POS tagging for Bantu languages, and Transformer-based Named Entity Recognition (NER)]

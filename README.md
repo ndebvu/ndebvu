@@ -15,7 +15,7 @@
 - [Organised Data Science bootCamp 2021](https://mwdata.science/)
 - [Part of speech tagging dataset creator](https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/README.md)
 - [Chichewa word embeddings](https://github.com/ndebvu/Chichewa-word-embeddings)
-- [Chichewa stemming algorithm](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Chichewa stemming algorithm](https://github.com/ndebvu/Chichewa-stemming/blob/main/README.md)
 - [Chichewa text classification](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [Chichewa text Part of speech tagging Using transformers](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [Chichewa text-to-speech dataset](https://www.youtube.com/watch?v=E2MwRWxDBkA)

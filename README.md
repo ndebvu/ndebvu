@@ -1,6 +1,6 @@
 <h1>Hi, I'm Stanley! <br/><a href="https://github.com/joshmadakor1">Lecturer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">NLP Reseacher</a>, <a href="https://www.youtube.com/c/joshmadakor">PhD Candidate</a></h1>
 
-<h2>👨‍💻 Education:</h2>
+<h2> Education:</h2>
 
 - <b>Doctor of philosophy Computer Science </b>
 - Major in Machine Learning & Natural Language Processing (Ongoing)

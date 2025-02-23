@@ -18,7 +18,7 @@
 - [Chichewa stemming algorithm](https://github.com/ndebvu/Chichewa-stemming/blob/main/README.md)
 - [Chichewa text classification](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [Chichewa text Part of speech tagging Using transformers](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [Chichewa text-to-speech dataset](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Chichewa text-to-speech dataset](https://github.com/ndebvu/Chichewa-Speech-dataset/blob/main/README.md)
 - [Fine-tuning speechT5 model for Chichewa text sythesis ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [A Video-based Detector for Suspicious Activity in Examination with OpenPose ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [Milab: a Virtual Science Laboratory for Malawian Secondary Schools ](https://www.youtube.com/watch?v=E2MwRWxDBkA)

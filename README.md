@@ -17,13 +17,13 @@
 - [Part of speech tagging dataset creator](https://github.com/ndebvu/Part-of-speech-dataset-collector/blob/main/README.md)
 - [Chichewa word embeddings](https://github.com/ndebvu/Chichewa-word-embeddings)
 - [Chichewa stemming algorithm](https://github.com/ndebvu/Chichewa-stemming/blob/main/README.md)
-- [Chichewa text classification](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [Chichewa text Part of speech tagging Using transformers](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Chichewa text classification]
+- [Chichewa text Part of speech tagging Using transformers]
 - [Chichewa text-to-speech dataset](https://github.com/ndebvu/Chichewa-Speech-dataset/blob/main/README.md)
-- [Fine-tuning speechT5 model for Chichewa text sythesis ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [A Video-based Detector for Suspicious Activity in Examination with OpenPose ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [Milab: a Virtual Science Laboratory for Malawian Secondary Schools ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [Water Parameter Estimation Application using Statistical Learning: the context of Malawi ](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Fine-tuning speechT5 model for Chichewa text sythesis ]
+- [A Video-based Detector for Suspicious Activity in Examination with OpenPose ]
+- [Milab: a Virtual Science Laboratory for Malawian Secondary Schools ]
+- [Water Parameter Estimation Application using Statistical Learning: the context of Malawi ]
   
 
 <h2> 🤳 Connect with me:</h2>
